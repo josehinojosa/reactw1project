@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: black;
 }
 
 .App-logo {
@@ -21,4 +22,19 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+.bob{
+  background-color: blue;
+}
+.nav{
+  background-color: black;
+  color:white;
+  text-align: center;
+  justify-content: center;
+}
+.Navbar{
+  text-align: center;
+}
+.Songdiv{
+  background-color: white;
 }
